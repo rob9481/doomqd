@@ -9,4 +9,6 @@
 Debug/
 Release/
 Build/
+compile_commands.json
 doomgeneric.map
+doomgeneric
